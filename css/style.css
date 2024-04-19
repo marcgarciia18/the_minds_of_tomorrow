@@ -81,8 +81,28 @@ header{
 .sec4 img{
     width: 100%;
 }
+
+.sec5{
+        background-color: #34a2eb;
+        font-size: 39px;
+        text-align: center;
+        padding: 0.5% 5%;
+}
+
 footer {
     color: white;
     background-color: black;
     padding: 3.5% 8%;
+    display: flex;
+}
+
+.col{
+    float: left;
+    width: 50%;
+}
+
+.colu1{
+    float: left;
+    width: 25%;
+
 }
