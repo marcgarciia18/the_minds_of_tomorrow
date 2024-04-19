@@ -3,6 +3,10 @@
     box-sizing: border-box;
 }
 
+body{
+    margin: 0%;
+}
+
 header{
     background-image: url(../img/banner-2.jpg);
     width: 100%;
@@ -14,55 +18,23 @@ header{
     padding-top: 10%;
 }
 
-.section1 {
-    display: flex;
-    padding-left: 5%;
-    font-size: 23px;
+.sec1{
+    padding: 1% 9%;
+    font-size: 30px;
 }
 
-.section2 {
-    background-color: aquamarine;
+.sec1 h1 {
+    font-size: 55px;
 }
 
-.section2 h1 {
-    font-size: 45px;
-    text-align: center;
-}
-.image2{
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    padding: 5px;
-}
-
-.section2 img {
-    justify-content: space-between;
-}
-
-.section3 {
-    display: flex;
-    padding-right: 5%;
-    font-size: 23px;
-}
-
-
-.section4 {
-    display: flex;
-    margin-bottom: 4px;
-}
-
-.section4 img {
+.sec1 img {
     width: 100%;
+}
+
+.col1{
     float: left;
+    width: 50%;
 }
-
-.section5 {
-    background-color: #34a2eb;
-    font-size: 39px;
-    text-align: center;
-    padding: 0.5% 5%;
-}
-
 footer {
     color: white;
     background-color: black;
