@@ -56,8 +56,31 @@ header{
     width: 100%;
 }
 
+.sec3{
+    height: cover;
+    float: right;
+    width: 100%;
+    font-size: 30px;
+    padding: 1% 4% 1% 4%;
+}
+
+.sec3 h1{
+    font-size: 55px;;
+}
+.sec3 img{
+    width: 100%;
+    padding: 1% 9%;
+}
 
 
+.sec4 {
+    display: flex;
+    width: 100%;
+}
+
+.sec4 img{
+    width: 100%;
+}
 footer {
     color: white;
     background-color: black;
