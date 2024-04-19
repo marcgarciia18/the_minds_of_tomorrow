@@ -106,3 +106,11 @@ footer {
     width: 25%;
 
 }
+
+@media screen and (max-width: 700px) {
+    header{
+        padding: 20vh 5px;
+        font-size: 30px;
+        background-size: cover;
+    }
+}
